@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 5.0.2, 2022-03-26T22:43:49. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{d9b3475f-6ae5-4c29-9f0d-ddd0f67ef42b}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.PreferSingleLineComments">false</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="bool" key="EditorConfiguration.UseIndenter">false</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="QString" key="EditorConfiguration.ignoreFileTypes">*.md, *.MD, Makefile</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+   <value type="bool" key="EditorConfiguration.skipTrailingWhitespace">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AutoTest.ActiveFrameworks">
+    <value type="bool" key="AutoTest.Framework.Boost">true</value>
+    <value type="bool" key="AutoTest.Framework.CTest">false</value>
+    <value type="bool" key="AutoTest.Framework.Catch">true</value>
+    <value type="bool" key="AutoTest.Framework.GTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtQuickTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtTest">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="AutoTest.CheckStates">
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ACTUATOR_CONTROL_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ACTUATOR_OUTPUT_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ADSB_VEHICLE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:AIS_VESSEL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ALTITUDE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ATTITUDE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ATTITUDE_QUATERNION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ATTITUDE_QUATERNION_COV">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ATTITUDE_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ATT_POS_MOCAP">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:AUTH_KEY">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:AUTOPILOT_STATE_FOR_GIMBAL_DEVICE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:AUTOPILOT_VERSION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:BATTERY_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:BUTTON_CHANGE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_CAPTURE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_FOV_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_IMAGE_CAPTURED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_SETTINGS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_TRACKING_GEO_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_TRACKING_IMAGE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CAMERA_TRIGGER">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CELLULAR_CONFIG">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CELLULAR_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CHANGE_OPERATOR_CONTROL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CHANGE_OPERATOR_CONTROL_ACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COLLISION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COMMAND_ACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COMMAND_CANCEL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COMMAND_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COMMAND_LONG">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:COMPONENT_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CONTROL_SYSTEM_STATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:CURRENT_EVENT_SEQUENCE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DATA_STREAM">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DATA_TRANSMISSION_HANDSHAKE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DEBUG">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DEBUG_FLOAT_ARRAY">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DEBUG_VECT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:DISTANCE_SENSOR">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:EFI_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ENCAPSULATED_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ESC_INFO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ESC_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ESTIMATOR_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:EVENT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:EXTENDED_SYS_STATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:FENCE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:FILE_TRANSFER_PROTOCOL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:FLIGHT_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:FOLLOW_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GENERATOR_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_DEVICE_ATTITUDE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_DEVICE_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_DEVICE_SET_ATTITUDE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_MANAGER_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_MANAGER_SET_ATTITUDE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_MANAGER_SET_MANUAL_CONTROL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_MANAGER_SET_PITCHYAW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GIMBAL_MANAGER_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GLOBAL_POSITION_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GLOBAL_POSITION_INT_COV">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GLOBAL_VISION_POSITION_ESTIMATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS2_RAW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS2_RTK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_GLOBAL_ORIGIN">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_INJECT_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_INPUT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_RAW_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_RTCM_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_RTK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:GPS_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIGHRES_IMU">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIGH_LATENCY">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIGH_LATENCY2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_ACTUATOR_CONTROLS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_CONTROLS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_GPS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_OPTICAL_FLOW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_RC_INPUTS_RAW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_SENSOR">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_STATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HIL_STATE_QUATERNION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HOME_POSITION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:HYGROMETER_SENSOR">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ISBD_LINK_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LANDING_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LINK_NODE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOCAL_POSITION_NED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOCAL_POSITION_NED_COV">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOCAL_POSITION_NED_SYSTEM_GLOBAL_OFFSET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOGGING_ACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOGGING_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOGGING_DATA_ACKED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_ENTRY">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_ERASE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_REQUEST_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_REQUEST_END">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:LOG_REQUEST_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MAG_CAL_REPORT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MANUAL_CONTROL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MANUAL_SETPOINT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MEMORY_VECT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MESSAGE_INTERVAL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_ACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_CLEAR_ALL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_COUNT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_CURRENT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_ITEM">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_ITEM_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_ITEM_REACHED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_REQUEST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_REQUEST_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_REQUEST_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_REQUEST_PARTIAL_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_SET_CURRENT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MISSION_WRITE_PARTIAL_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:MOUNT_ORIENTATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:NAMED_VALUE_FLOAT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:NAMED_VALUE_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:NAV_CONTROLLER_OUTPUT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OBSTACLE_DISTANCE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ODOMETRY">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ONBOARD_COMPUTER_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_AUTHENTICATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_BASIC_ID">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_LOCATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_MESSAGE_PACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_OPERATOR_ID">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_SELF_ID">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPEN_DRONE_ID_SYSTEM">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPTICAL_FLOW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:OPTICAL_FLOW_RAD">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:ORBIT_EXECUTION_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_EXT_ACK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_EXT_REQUEST_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_EXT_REQUEST_READ">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_EXT_SET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_EXT_VALUE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_MAP_RC">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_REQUEST_LIST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_REQUEST_READ">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_SET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PARAM_VALUE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PING">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PLAY_TUNE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:PLAY_TUNE_V2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:POSITION_TARGET_GLOBAL_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:POSITION_TARGET_LOCAL_NED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:POWER_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RADIO_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RAW_IMU">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RAW_PRESSURE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RAW_RPM">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RC_CHANNELS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RC_CHANNELS_OVERRIDE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RC_CHANNELS_RAW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RC_CHANNELS_SCALED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:REQUEST_DATA_STREAM">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:REQUEST_EVENT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RESOURCE_REQUEST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:RESPONSE_EVENT_ERROR">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SAFETY_ALLOWED_AREA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SAFETY_SET_ALLOWED_AREA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_IMU">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_IMU2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_IMU3">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_PRESSURE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_PRESSURE2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SCALED_PRESSURE3">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SERIAL_CONTROL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SERVO_OUTPUT_RAW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SETUP_SIGNING">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_ACTUATOR_CONTROL_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_ATTITUDE_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_GPS_GLOBAL_ORIGIN">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_HOME_POSITION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_MODE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_POSITION_TARGET_GLOBAL_INT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SET_POSITION_TARGET_LOCAL_NED">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SIM_STATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SMART_BATTERY_INFO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:STATUSTEXT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:STORAGE_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SUPPORTED_TUNES">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SYSTEM_TIME">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:SYS_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TERRAIN_CHECK">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TERRAIN_DATA">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TERRAIN_REPORT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TERRAIN_REQUEST">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TIMESYNC">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TIME_ESTIMATE_TO_TARGET">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TRAJECTORY_REPRESENTATION_BEZIER">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TRAJECTORY_REPRESENTATION_WAYPOINTS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:TUNNEL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:UAVCAN_NODE_INFO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:UAVCAN_NODE_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:UTM_GLOBAL_POSITION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:V2_EXTENSION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VFR_HUD">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VIBRATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VICON_POSITION_ESTIMATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VIDEO_STREAM_INFORMATION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VIDEO_STREAM_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VISION_POSITION_ESTIMATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:VISION_SPEED_ESTIMATE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:WHEEL_DISTANCE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:WIFI_CONFIG_AP">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:WINCH_STATUS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:WIND_COV">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/common/gtestsuite.hpp:common">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/minimal/gtestsuite.hpp:HEARTBEAT">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/minimal/gtestsuite.hpp:PROTOCOL_VERSION">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/augusto/ground_station/include/minimal/gtestsuite.hpp:minimal">Checked</value>
+   </valuemap>
+   <value type="int" key="AutoTest.RunAfterBuild">0</value>
+   <value type="bool" key="AutoTest.UseGlobal">true</value>
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+   <value type="QString" key="ClangCodeModel.WarningConfigId">Builtin.BuildSystem</value>
+   <valuemap type="QVariantMap" key="ClangTools">
+    <value type="bool" key="ClangTools.AnalyzeOpenFiles">true</value>
+    <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
+    <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
+    <value type="int" key="ClangTools.ParallelJobs">4</value>
+    <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
+    <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
+    <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
+    <value type="bool" key="ClangTools.UseGlobalSettings">true</value>
+   </valuemap>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{b2a19cb0-45d8-43eb-812a-b1188a3f4611}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="int" key="EnableQmlDebugging">0</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/augusto/ground_station/build-model_vant-Desktop-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/augusto/ground_station/build-model_vant-Desktop-Debug</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/augusto/ground_station/build-model_vant-Desktop-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/augusto/ground_station/build-model_vant-Desktop-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
+    <value type="int" key="EnableQmlDebugging">0</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/augusto/ground_station/build-model_vant-Desktop-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/augusto/ground_station/build-model_vant-Desktop-Profile</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Profile</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+    <value type="int" key="SeparateDebugInfo">0</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">3</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.DeployConfiguration.CustomData"/>
+    <value type="bool" key="ProjectExplorer.DeployConfiguration.CustomDataEnabled">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.DefaultDeployConfiguration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/augusto/ground_station/model_vant/model_vant.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/augusto/ground_station/model_vant/model_vant.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/augusto/ground_station/build-model_vant-Desktop-Debug</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TargetCount</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">22</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">22</value>
+ </data>
+</qtcreator>
